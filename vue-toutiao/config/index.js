@@ -1,5 +1,4 @@
 module.exports = {
-    //项目出口,webpack-dev-server 生成的包并没有写入硬盘,而是放在内存中！
     dev: {
         env: 'development',
         publicPath: '/',
