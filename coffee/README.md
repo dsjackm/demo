@@ -1,2 +1,2 @@
 demo-coffee preview
-[demo](https://dsjackm.github.io/demo/demo-coffee/index.html)
+[demo](https://dsjackm.github.io/demo/coffee/index.html)
