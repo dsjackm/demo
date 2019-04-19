@@ -1,2 +1,2 @@
 preview
-[demo](https://dsjackm.github.io/demo/douban/index.html)
+[demo](https://dsjackm.github.io/demo/douban/dist/index.html)
