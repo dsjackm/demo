@@ -1,3 +1,3 @@
-# demo
-preview
-[demo](https://dsjackm.github.io/demo/AutoplayForIphone.html)
+# tool
+autoplayForIphone
+[demo](https://dsjackm.github.io/demo/autoplayForIphone.html)
